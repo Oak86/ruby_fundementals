@@ -15,12 +15,16 @@ return fibo[n]
 ##---Strings---##
 
 #Reverse
+"chunky bacon"
 
 #Hello World
+upcase
 
 #There's No Way This Works
+true
 
 #There's No Way This Works Version 2
+"HellowWorld"
 
 #Brackets and Searches
 
