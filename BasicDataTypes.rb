@@ -27,10 +27,14 @@ true
 "HellowWorld"
 
 #Brackets and Searches
+"e"]
 
 #No Limit
+split(',', -1)
 
 ##---Operators---##
 
 # && Versus And
+"blue"
+
 # Hiring Programmers -Boolean Expressions in Ruby
